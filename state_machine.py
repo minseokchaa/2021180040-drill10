@@ -27,6 +27,9 @@ def space_down(e):
 def time_out(e):
     return e[0] == 'TIME_OUT'
 
+def turn_around(e):
+    return e[0] == 'Turn_around'
+
 
 
 
